@@ -17,6 +17,7 @@ i-am-feeling-lucky = "main:main"
 [tool.setuptools]
 package-dir = {"" = "src"}
 py-modules = ["main", "question", "rockpaperscissors"]
+include-package-data = false
 
 [tool.setuptools.package-data]
-"*" = ["questions.json"]
+"etc/i-am-feeling-lucky" = ["src/questions.json"]
