@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "i-am-feeling-lucky"
-version = "1.0"
+version = "0.1.0"
 description = "You feel lucky and you are."
 readme = "README.MD"
 authors = [
