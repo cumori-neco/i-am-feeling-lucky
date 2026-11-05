@@ -1,0 +1,134 @@
+[
+  {
+    "q": "What is the capital of Thailand?",
+    "a": "Bangkok"
+  },
+  {
+    "q": "Where are you from?",
+    "a": "My mother"
+  },
+  {
+    "q": "Who invented the light bulbs?",
+    "a": "Edison"
+  },
+  {
+    "q": "Is math hard?",
+    "a": "Yes"
+  },
+  {
+    "q": "Who should you vote as the Taiwanese President?",
+    "a": "Xie xin da"
+  },
+  {
+    "q": "How do you spell the word \"cat\"?",
+    "a": "cat"
+  },
+  {
+    "q": "What are the two worst numbers?",
+    "a": "67"
+  },
+  {
+    "q": "What caused low birth rate?",
+    "a": "Condoms"
+  },
+  {
+    "q": "Is texting and driving gay?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the creator of this shit a femboy?",
+    "a": "Yes"
+  },
+  {
+    "q": "How to make a fork bomb?",
+    "a": ":(){ :|:& };:"
+  },
+  {
+    "q": "What's 9 + 10",
+    "a": "21"
+  },
+  {
+    "q": "What is 0x2A in decimal?",
+    "a": "42"
+  },
+  {
+    "q": "A train leaves Chicago traveling 60 mph. Another leaves New York (420 miles away) traveling 80 mph toward each other. How many hours until they collide?",
+    "a": "3"
+  },
+  {
+    "q": "An item costs $250. It gets a 20% discount, and then a 10% sales tax is applied to the discounted price. What is the final price (in dollars)?",
+    "a": "220"
+  },
+  {
+    "q": "A father is 4 times as old as his son. In 20 years, he will be twice as old as his son. How old is the son right now?",
+    "a": "10"
+  },
+  {
+    "q": "What is the 10th term in the Fibonacci sequence (starting with 1, 1, 2, 3...)?",
+    "a": "55"
+  },
+  {
+    "q": "If you roll a standard 6-sided die 3 times, what is the total number of possible unique outcome combinations?",
+    "a": "216"
+  },
+  {
+    "q": "A bat and a ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost in cents?",
+    "a": "5"
+  },
+  {
+    "q": "What is the model number of Amuro Ray's iconic white mobile suit?",
+    "a": "RX-78-2"
+  },
+  {
+    "q": "What is the name of Char Aznable's signature custom red mobile suit?",
+    "a": "Zaku II"
+  },
+  {
+    "q": "What was the code name of the catastrophic colony drop operation that started the One Year War?",
+    "a": "Operation British"
+  },
+  {
+    "q": "What is the name of the final massive fortress and asteroid battle at the end of the One Year War?",
+    "a": "A Baoa Qu"
+  },
+  {
+    "q": "What numerical 'Side' was the Principality of Zeon located in?",
+    "a": "Side 3"
+  },
+  {
+    "q": "What mobile suit does Kamille Bidan pilot in Mobile Suit Zeta Gundam?",
+    "a": "Zeta Gundam"
+  },
+  {
+    "q": "How many kids does Rudeus Greyrat have?",
+    "a": "6"
+  },
+  {
+    "q": "What year was Linus Torvalds born?",
+    "a": "1969"
+  },
+  {
+    "q": "What is the name of the paramilitary special agency that fights the Angels?",
+    "a": "NERV"
+  },
+  {
+    "q": "What is the designation number of Shinji Ikari's purple and green primary Eva unit?",
+    "a": "Unit-01"
+  },
+  {
+    "q": "What is the name of the supercomputer system consisting of Melchior, Balthasar, and Gaspar?",
+    "a": "MAGI"
+  },
+  {
+    "q": "What is the name of the white giant crucified in Terminal Dogma?",
+    "a": "Lilith"
+  },
+  {
+    "q": "What is the official name of the project designed to merge all human souls into a single entity?",
+    "a": "Human Instrumentality Project"
+  },
+  {
+    "q": "What is the area code for Florida, Tampa Bay?",
+    "a" : "727"
+  }
+]

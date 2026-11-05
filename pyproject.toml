@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "i-am-feeling-lucky"
+version = "1.0"
+description = "You feel lucky and you are."
+readme = "README.MD"
+authors = [
+    { name = "NecoDev", email = "necodev@icloud.com" }
+]
+requires-python = ">=3.8"
+[project.scripts]
+i-am-feeling-lucky = "main:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+py-modules = ["main", "question", "rockpaperscissors"]
+
+[tool.setuptools.package-data]
+"*" = ["questions.json"]
