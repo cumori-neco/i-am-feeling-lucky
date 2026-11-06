@@ -1,7 +1,7 @@
 import os
 import random
-import question
-from rockpaperscissors import game
+from i_am_feeling_lucky import question
+from i_am_feeling_lucky import rockpaperscissors
 
 
 def main():
@@ -96,7 +96,7 @@ def find_random_file(current_dir: str) -> str | None:
 def passed_question() -> bool:
     match random.randint(0,2):
         case 0:
-            return game()
+            return rockpaperscissors.game()
         case 1:
             a = random.randint(0,100)
             b = random.randint(0,100)
